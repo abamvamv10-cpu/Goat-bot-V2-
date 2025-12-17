@@ -1,1 +1,83 @@
-Your facebook Account Cookies
+[
+    {
+        "key": "datr",
+        "value": "PZRCaeCR3rnOvaCPqMxdOmbE",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-12-17T19:35:02.278Z",
+        "lastAccessed": "2025-12-17T19:35:02.278Z"
+    },
+    {
+        "key": "sb",
+        "value": "PZRCaQSaTgEw5ugtAUgNLrGT",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-12-17T19:35:02.278Z",
+        "lastAccessed": "2025-12-17T19:35:02.278Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-12-17T19:35:02.278Z",
+        "lastAccessed": "2025-12-17T19:35:02.278Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-12-17T19:35:02.278Z",
+        "lastAccessed": "2025-12-17T19:35:02.278Z"
+    },
+    {
+        "key": "wd",
+        "value": "1920x837",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-12-17T19:35:02.278Z",
+        "lastAccessed": "2025-12-17T19:35:02.278Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61580504610777",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-12-17T19:35:02.278Z",
+        "lastAccessed": "2025-12-17T19:35:02.278Z"
+    },
+    {
+        "key": "fr",
+        "value": "1K6yHEUk3QlXmsmsr.AWdjtR54tErsKbBjB8c2zb4AfX7lXZZ7_D_7X1xNoJaXz4o9rgs.BpQwW1..AAA.0.0.BpQwW1.AWeo6ffHX9Dh5BpSYDoeagPU6Uk",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-12-17T19:35:02.278Z",
+        "lastAccessed": "2025-12-17T19:35:02.278Z"
+    },
+    {
+        "key": "xs",
+        "value": "17%3AmZmyZqMjVcfdEg%3A2%3A1766000048%3A-1%3A-1%3A%3AAcwAr65AguVNnbeKM30-5g4Pc10YipMew-blFN891w",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-12-17T19:35:02.278Z",
+        "lastAccessed": "2025-12-17T19:35:02.278Z"
+    },
+    {
+        "key": "presence",
+        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1766000057002%2C%22v%22%3A1%7D",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-12-17T19:35:02.278Z",
+        "lastAccessed": "2025-12-17T19:35:02.278Z"
+    }
+]
